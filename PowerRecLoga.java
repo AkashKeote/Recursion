@@ -16,5 +16,6 @@ public class PowerRecLoga {
         int a =sc.nextInt();
         int b =sc.nextInt();
      System.out.println(a+" raised to "+b+" is "+powerRec(a,b));
+     sc.close();
     }
 }
