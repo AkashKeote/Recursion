@@ -5,5 +5,10 @@ public class RecursivePow {
     }
     public static void main(String[] args) {
         System.out.println(Power(2,5));
+        int n = 3;
+       
+System.out.println((n == 2) ? "true" : "false");
+
+        
 }
 }
